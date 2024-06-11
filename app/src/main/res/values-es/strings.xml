@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas Avanzadas</string>
+
+    <!-- Pantallas -->
+    <string name="screen_login_label">Iniciar sesión</string>
+    <string name="screen_register_label">Registrarse</string>
+
+    <string name="screen_settings_label">Ajustes</string>
+    <string name="screen_user_label">Usuario</string>
+    <string name="screen_notes_label">Notas</string>
+    <string name="screen_archived_notes_label">Notas archivadas</string>
+    <string name="screen_trashed_notes_label">Papelera</string>
+    <string name="screen_single_note_label">Nota</string>
+    <string name="screen_gallery_label">Galería</string>
+    <string name="screen_tags_label">Etiquetas</string>
+    <string name="screen_single_tag_label">Etiqueta</string>
+
+    <!-- General -->
+    <string name="cd_back">Atrás</string>
+    <string name="cd_open_menu">Abrir menú</string>
+
+    <string name="undo_button">Deshacer</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="continue_button">Continuar</string>
+    <string name="discard_changes">Descartar cambios</string>
+    <string name="close_button">Cerrar</string>
+    <string name="save_button">Guardar</string>
+
+    <string name="download">Descargar</string>
+
+    <string name="login_text">Iniciar sesión / Registrarse</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="session_active">Sesión activa</string>
+    <string name="session_inactive">Sesión inactiva</string>
+
+    <string name="synchronizing">Synchronizing…</string>
+
+    <string name="error_try_again_later">Ha ocurrido un error. Por favor, inténtalo de nuevo más tarde.</string>
+
+    <!-- Inicio de sesión / Registro -->
+    <string name="first_name_label">Nombre</string>
+    <string name="last_name_label">Apellidos</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="password_label">Contraseña</string>
+
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+
+    <string name="email_is_valid">El correo electrónico es válido</string>
+    <string name="email_is_not_valid">El correo electrónico no es válido</string>
+
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Crear cuenta</string>
+
+    <string name="login_failed_message">Inicio de sesión no exitoso. Por favor, verifica tu correo electrónico y contraseña e inténtalo de nuevo.</string>
+    <string name="login_user_not_exists_message">Inicio de sesión no exitoso. El usuario no existe.</string>
+    <string name="login_attempts_message">Inicio de sesión no exitoso. Se han realizado %1$d intentos.</string>
+    <string name="login_locked_message">Inicio de sesión bloqueado debido a demasiados intentos fallidos.</string>
+    <string name="register_failed_message">Registro fallido. Por favor, verifica tus detalles e inténtalo de nuevo.</string>
+
+    <!-- Ajustes -->
+    <string name="ui_mode">Modo de interfaz</string>
+    <string name="ui_mode_day">Modo diurno</string>
+    <string name="ui_mode_night">Modo nocturno</string>
+    <string name="ui_mode_device">Modo del dispositivo</string>
+
+    <string name="use_dynamic_colors">Usar colores dinamicos</string>
+
+    <string name="auto_delete_trash_mode">Limpiar la papelera automáticamente</string>
+    <string name="auto_delete_trash_mode_none">Nunca</string>
+    <string name="auto_delete_trash_mode_monthly">Mensualmente</string>
+    <string name="auto_delete_trash_mode_six_monthly">Cada seis meses</string>
+
+    <!-- User -->
+    <string name="user_personal_data_label">Datos personales</string>
+    <string name="user_security_label">Seguridad</string>
+    <string name="user_change_password_label">Cambiar contraseña</string>
+    <string name="user_change_password_verify_label">Confirmar contraseña</string>
+
+    <!-- Notas -->
+    <string name="search_hint">Busca tus notas</string>
+    <string name="filter_by_tags">Filtrar por etiquetas</string>
+
+    <string name="duplicate">Duplicar</string>
+    <string name="duplicate_sufix">copia</string>
+    <string name="delete">Eliminar</string>
+    <string name="restore">Restaurar</string>
+    <string name="delete_permanently">Eliminar permanentemente</string>
+
+    <string name="add_new_note">Agregar nueva nota</string>
+
+    <string name="cd_fixed">Fijado</string>
+    <string name="cd_unfixed">No fijado</string>
+    <string name="cd_archive">Archivar</string>
+    <string name="cd_unarchive">Desarchivar</string>
+
+    <string name="duplicate_note_title">Duplicar</string>
+    <string name="duplicate_note_text">Estás a punto de duplicar la nota. ¿Deseas continuar?</string>
+
+    <string name="trash_note_title">Eliminar nota</string>
+    <string name="trash_note_text">Estás a punto de eliminar la nota. ¿Deseas continuar?</string>
+
+    <string name="delete_note_title">Eliminar nota</string>
+    <string name="delete_note_text">Estás a punto de eliminar permanentemente la nota. ¿Deseas continuar?</string>
+
+    <string name="empty_trash_title">Vaciar la papelera</string>
+    <string name="empty_trash_text">Estás a punto de vaciar la papelera. ¿Quieres continuar?</string>
+
+    <!-- Nota individual -->
+    <string name="note_name">Nombre de la nota</string>
+    <string name="note_content">Contenido</string>
+    <string name="note_location">Ubicación</string>
+    <string name="note_camera">Cámara</string>
+    <string name="note_gallery">Galería</string>
+    <string name="note_record">Grabación</string>
+    <string name="note_records">Grabaciones</string>
+    <string name="view_in_map">Ver en el mapa</string>
+
+    <string name="advanced_content_add_text">Añadir texto</string>
+    <string name="advanced_content_add_list">Añadir lista</string>
+
+    <string name="cd_clean_text">Limpiar texto</string>
+    <string name="cd_sst">Establecer texto con voz</string>
+    <string name="cd_tts">Reproducir el texto</string>
+
+    <string name="sticky_note">Nota adhesiva</string>
+    <string name="no_sticky_note">Nota no adhesiva</string>
+
+    <string name="error_note_name_empty">El nombre de la nota no puede estar vacío</string>
+
+    <string name="location_background_message">Obteniendo la ubicación en segundo plano</string>
+
+    <string name="recording_background_message">Grabando audio en segundo plano</string>
+    <string name="stop">Detener</string>
+    <string name="recording_audio_message">Hay una grabación en curso</string>
+
+    <string name="rename">Renombrar</string>
+    <string name="cd_play_record">Reproducir grabación</string>
+    <string name="cd_stop_record">Detener grabación</string>
+
+    <string name="location_updated">La ubicación se ha actualizado.</string>
+
+    <string name="reminder">Recordatorio</string>
+    <string name="date">Fecha</string>
+    <string name="time">Hora</string>
+
+    <string name="date_empty">La fecha está vacía</string>
+    <string name="no_reminder_set">Ningún recordatorio configurado</string>
+    <string name="note_reminder_date_label">Fecha del recordatorio:</string>
+    <string name="natural_lang_formatted_date">%1$d de %2$s de %3$d a las %4$s</string>
+    <string name="reminder_deleted">Recordatorio eliminado</string>
+
+    <string name="reminder_recurrent_title">Recordatorio recurrente</string>
+    <string name="reminder_frequency_none">No recurrente</string>
+    <string name="reminder_frequency_daily">Diariamente</string>
+    <string name="reminder_frequency_weekly">Semanalmente</string>
+    <string name="reminder_frequency_monthly">Mensualmente</string>
+    <string name="reminder_frequency_yearly">Anualmente</string>
+
+    <string name="delete_location_title">Eliminar ubicación</string>
+    <string name="delete_location_text">Estás a punto de eliminar permanentemente la ubicación. ¿Deseas continuar?</string>
+
+    <string name="delete_gallery_image_title">Eliminar imagen</string>
+    <string name="delete_gallery_image_text">Estás a punto de eliminar permanentemente la imagen. ¿Deseas continuar?</string>
+
+    <string name="delete_note_record_title">Eliminar grabación</string>
+    <string name="delete_note_record_text">Estás a punto de eliminar permanentemente la grabación. ¿Deseas continuar?</string>
+
+    <!-- Etiquetas -->
+    <string name="add_new_tag">Agregar nueva etiqueta</string>
+
+    <string name="delete_note_tag_title">Eliminar etiqueta</string>
+    <string name="delete_note_tag_text">Estás a punto de eliminar permanentemente la etiqueta %1$s. ¿Deseas continuar?</string>
+
+    <string name="without_tags">Sin etiquetas</string>
+
+    <!-- Etiqueta individual -->
+    <string name="tag_name">Nombre de la etiqueta</string>
+    <string name="error_note_tag_name_empty">El nombre de la etiqueta no puede estar vacío</string>
+
+    <string name="notes_in_tag_label">Notas:</string>
+    <string name="notes_archived_in_tag_label">Notas archivadas:</string>
+    <string name="notes_trashed_in_tag_label">Notas en la papelera:</string>
+
+    <!-- Contenido vacío -->
+    <string name="content_empty_notes">No se encontraron notas guardadas</string>
+    <string name="content_empty_archived_notes">No se encontraron notas archivadas</string>
+    <string name="content_empty_trash">No hay notas en la papelera</string>
+    <string name="content_empty_tags">No se encontraron etiquetas guardadas</string>
+
+    <!-- Permisos -->
+    <string name="permissions_dialog_title">Permisos requeridos</string>
+    <string name="notifications_permission_rationale">Para recibir notificaciones, debes de conceder los permisos de notificaciones necesarios.</string>
+    <string name="exact_alarms_permission_rationale">Para configurar recordatorios, debe otorgar manualmente los permisos necesarios de alarmas y recordatorios.</string>
+    <string name="location_permission_rationale">Para acceder a tu ubicación, debes de conceder los permisos de ubicación necesarios.</string>
+    <string name="camera_permission_rationale">Para acceder a la cámara, debes de conceder los permisos de cámara necesarios.</string>
+    <string name="audio_permission_rationale">Para grabar audio, debes de conceder los permisos de micrófono y notificaciones necesarios.</string>
+    <string name="storage_permission_rationale">Para descargar archivos, debes de conceder los permisos de almacenamiento necesarios.</string>
+    <string name="permission_button">¡Vamos a hacerlo!</string>
+
+    <!-- Notificaciones -->
+    <string name="location_channel_name">Ubicación</string>
+    <string name="sticky_notifications_channel_name">Notificaciones adhesivas</string>
+    <string name="reminder_channel_name">Recordatorios</string>
+    <string name="note_record_channel_name">Grabación de audio</string>
+    <string name="download_file_channel_name">Descargar archivo</string>
+    <string name="downloaded_file_channel_name">Archivo descargado</string>
+
+    <string name="downloading_file">Se esta descargando el archivo</string>
+    <string name="downloaded_file">Se ha completado la descarga</string>
+</resources>

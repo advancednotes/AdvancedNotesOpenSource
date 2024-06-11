@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Advanced Notes</string>
+
+    <!-- Screens -->
+    <string name="screen_login_label">Login</string>
+    <string name="screen_register_label">Register</string>
+
+    <string name="screen_settings_label">Settings</string>
+    <string name="screen_user_label">User</string>
+    <string name="screen_notes_label">Notes</string>
+    <string name="screen_archived_notes_label">Archived notes</string>
+    <string name="screen_trashed_notes_label">Trash</string>
+    <string name="screen_single_note_label">Note</string>
+    <string name="screen_gallery_label">Gallery</string>
+    <string name="screen_tags_label">Tags</string>
+    <string name="screen_single_tag_label">Tag</string>
+
+    <!-- General-->
+    <string name="cd_back">Back</string>
+    <string name="cd_open_menu">Open menu</string>
+
+    <string name="undo_button">Undo</string>
+    <string name="clear_button">Clear</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="continue_button">Continue</string>
+    <string name="discard_changes">Discard changes</string>
+    <string name="close_button">Close</string>
+    <string name="save_button">Save</string>
+
+    <string name="download">Download</string>
+
+    <string name="login_text">Login / Register</string>
+    <string name="logout">Logout</string>
+
+    <string name="session_active">Session active</string>
+    <string name="session_inactive">Session inactive</string>
+
+    <string name="synchronizing">Synchronizing…</string>
+
+    <string name="error_try_again_later">An error has occurred. Please try again later.</string>
+
+    <!-- Login / Register -->
+    <string name="first_name_label">First name</string>
+    <string name="last_name_label">Last name</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+
+    <string name="forgot_password">Forgot password?</string>
+
+    <string name="email_is_valid">Email is valid</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+
+    <string name="login_button">Login</string>
+    <string name="register_button">Create account</string>
+
+    <string name="login_failed_message">Login unsuccessful. Please verify your email and password and try again.</string>
+    <string name="login_user_not_exists_message">Login unsuccessful. User not exists.</string>
+    <string name="login_attempts_message">Login unsuccessful. %1$d attempts made.</string>
+    <string name="login_locked_message">Login locked due to too many failed attempts.</string>
+    <string name="register_failed_message">Register failed. Please verify your details and try again.</string>
+
+    <!-- Settings -->
+    <string name="ui_mode">UI Mode</string>
+    <string name="ui_mode_day">Day mode</string>
+    <string name="ui_mode_night">Night Mode</string>
+    <string name="ui_mode_device">Device Mode</string>
+
+    <string name="use_dynamic_colors">Use dynamic colors</string>
+
+    <string name="auto_delete_trash_mode">Clean trash automatically</string>
+    <string name="auto_delete_trash_mode_none">Never</string>
+    <string name="auto_delete_trash_mode_monthly">Monthly</string>
+    <string name="auto_delete_trash_mode_six_monthly">Six monthly</string>
+
+    <!-- User -->
+    <string name="user_personal_data_label">Personal data</string>
+    <string name="user_security_label">Security</string>
+    <string name="user_change_password_label">Change password</string>
+    <string name="user_change_password_verify_label">Confirm password</string>
+
+    <!-- Notes -->
+    <string name="search_hint">Search your notes</string>
+    <string name="filter_by_tags">Filter by tags</string>
+
+    <string name="duplicate">Duplicate</string>
+    <string name="duplicate_sufix">copy</string>
+    <string name="delete">Delete</string>
+    <string name="restore">Restore</string>
+    <string name="delete_permanently">Delete permanently</string>
+
+    <string name="add_new_note">Add new note</string>
+
+    <string name="cd_fixed">Fixed</string>
+    <string name="cd_unfixed">Unfixed</string>
+    <string name="cd_archive">Archive</string>
+    <string name="cd_unarchive">Unarchive</string>
+
+    <string name="duplicate_note_title">Duplicate</string>
+    <string name="duplicate_note_text">You are about to duplicate the note. Do you want to continue?</string>
+
+    <string name="trash_note_title">Delete note</string>
+    <string name="trash_note_text">You are about to delete the note. Do you want to continue?</string>
+
+    <string name="delete_note_title">Delete note</string>
+    <string name="delete_note_text">You are about to permanently delete the note. Do you want to continue?</string>
+
+    <string name="empty_trash_title">Empty the trash</string>
+    <string name="empty_trash_text">You are about to empty the trash. Do you want to continue?</string>
+
+    <!-- Single note -->
+    <string name="note_name">Note name</string>
+    <string name="note_content">Content</string>
+    <string name="note_location">Location</string>
+    <string name="note_camera">Camera</string>
+    <string name="note_gallery">Gallery</string>
+    <string name="note_record">Record</string>
+    <string name="note_records">Records</string>
+    <string name="view_in_map">View in map</string>
+
+    <string name="advanced_content_add_text">Add text</string>
+    <string name="advanced_content_add_list">Add list</string>
+
+    <string name="cd_clean_text">Clean text</string>
+    <string name="cd_sst">Set text with speech</string>
+    <string name="cd_tts">Play the text</string>
+
+    <string name="location_updated">Location has updated.</string>
+
+    <string name="sticky_note">Sticky note</string>
+    <string name="no_sticky_note">Non-Sticky note</string>
+
+    <string name="error_note_name_empty">Note name is empty</string>
+
+    <string name="location_background_message">Getting location in the background</string>
+
+    <string name="recording_background_message">Recording audio in the background</string>
+    <string name="stop">Stop</string>
+    <string name="recording_audio_message">There is a recording in progress</string>
+
+    <string name="rename">Rename</string>
+    <string name="cd_play_record">Play record</string>
+    <string name="cd_stop_record">Stop record</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+    <string name="date_empty">Date is empty</string>
+    <string name="no_reminder_set">No reminder set</string>
+    <string name="note_reminder_date_label">Reminder date:</string>
+    <string name="natural_lang_formatted_date">%1$d of %2$s of %3$d at %4$s</string>
+    <string name="reminder_deleted">Reminder deleted</string>
+
+    <string name="reminder_recurrent_title">Reminder recurrent</string>
+    <string name="reminder_frequency_none">Not recurrent</string>
+    <string name="reminder_frequency_daily">Daily</string>
+    <string name="reminder_frequency_weekly">Weekly</string>
+    <string name="reminder_frequency_monthly">Monthly</string>
+    <string name="reminder_frequency_yearly">Yearly</string>
+
+    <string name="delete_location_title">Delete location</string>
+    <string name="delete_location_text">You are about to permanently delete the location. Do you want to continue?</string>
+
+    <string name="delete_gallery_image_title">Delete image</string>
+    <string name="delete_gallery_image_text">You are about to permanently delete the image. Do you want to continue?</string>
+
+    <string name="delete_note_record_title">Delete record</string>
+    <string name="delete_note_record_text">You are about to permanently delete the record. Do you want to continue?</string>
+
+    <!-- Tags -->
+    <string name="add_new_tag">Add new tag</string>
+
+    <string name="delete_note_tag_title">Delete tag</string>
+    <string name="delete_note_tag_text">You are about to permanently delete the tag %1$s. Do you want to continue?</string>
+
+    <string name="without_tags">Without tags</string>
+
+    <!-- Single tag -->
+    <string name="tag_name">Tag name</string>
+    <string name="error_note_tag_name_empty">Tag name is empty</string>
+
+    <string name="notes_in_tag_label">Notes:</string>
+    <string name="notes_archived_in_tag_label">Notes archived:</string>
+    <string name="notes_trashed_in_tag_label">Notes trashed:</string>
+
+    <!-- Content empty -->
+    <string name="content_empty_notes">No saved notes found</string>
+    <string name="content_empty_archived_notes">No archived notes found</string>
+    <string name="content_empty_trash">No notes in the trash</string>
+    <string name="content_empty_tags">No saved tags found</string>
+
+    <!-- Permissions -->
+    <string name="permissions_dialog_title">Required Permissions</string>
+    <string name="notifications_permission_rationale">To receive notifications, you must grant the necessary notification permissions.</string>
+    <string name="exact_alarms_permission_rationale">To set reminders, you must manually grant the necessary alarm and reminder permissions.</string>
+    <string name="location_permission_rationale">To access your location, you must grant the necessary location permissions.</string>
+    <string name="camera_permission_rationale">To access the camera, you must grant the necessary camera permissions.</string>
+    <string name="audio_permission_rationale">To record audio, you must grant the necessary microphone and notification permissions.</string>
+    <string name="storage_permission_rationale">To download files, you must grant the necessary storage permissions.</string>
+    <string name="permission_button">Let\'s do it!</string>
+
+    <!-- Notifications -->
+    <string name="location_channel_name">Location</string>
+    <string name="sticky_notifications_channel_name">Sticky notifications</string>
+    <string name="reminder_channel_name">Reminders</string>
+    <string name="note_record_channel_name">Record audio</string>
+    <string name="download_file_channel_name">Download file</string>
+    <string name="downloaded_file_channel_name">Downloaded file</string>
+
+    <string name="downloading_file">File is downloading</string>
+    <string name="downloaded_file">Download is completed</string>
+</resources>
